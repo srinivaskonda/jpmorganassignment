@@ -1,0 +1,13 @@
+
+Classes
+jpmorgan.supersimplestock.StockCal -> Just a sample class using the main classes Stock and GBCE
+jpmorgan.supersimplestock.GBCE -> Class used to calculate the All Share Index
+jpmorgan.supersimplestock.Stock -> Class used to manage the operations against the stocks
+jpmorgan.supersimplestock.Trade -> Just a bean representing each trade
+
+Enums
+jpmorgan.supersimplestock.StockType
+jpmorgan.supersimplestock.TradeType
+
+Packages
+jpmorgan.supersimplestock -> The main project package
